@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-config-aliapp",
+  "version": "1.0.0",
+  "description": "支付宝小程序元素集合",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/stylelint-config-aliapp.git"
+  },
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/stylelint-config-aliapp/issues"
+  },
+  "homepage": "https://github.com/bugszhou/stylelint-config-aliapp#readme"
+}
